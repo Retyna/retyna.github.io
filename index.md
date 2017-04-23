@@ -1,13 +1,13 @@
 ---
-zip: https://github.com/MathiasSM/Rutyna/releases/download/v1.0/Rutyna.zip
-tar: https://github.com/MathiasSM/Rutyna/releases/download/v1.0/Rutyna.tar
+zip: https://github.com/Retyna/Retyna/releases/download/v1.0.1/Retyna.zip
+tar: https://github.com/Retyna/Retyna/releases/download/v1.0.1/Retyna.tar
 ---
-# Interpretador Rutyna
+# Interpretador Retyna
 
 Se trata de un interpretador sencillo implementado en Ruby para el lenguaje inventado "Retina". Fue realizado como parte del curso CI3725 (Traductores e Interpretadores) de la **Universidad Simón Bolívar** por _MathiasSM_ y _CSerradaG_.
 
 + [Más sobre Retina](#retina)
-+ [Más sobre Rutyna](#rutyna)
++ [Más sobre Retyna](#retyna)
 
 
 ## Retina
@@ -197,11 +197,11 @@ La instrucción `write x1, x2, ..., xn;`, donde `xi` puede ser una cadena de car
 *****
 *****
 
-## Rutyna
+## Retyna
 
-Rutyna fue desarrollado en Ruby 2.4.0; puede funcionar con otras versiones pero no lo aseguramos. Contiene un archivo `retina` ejecutable (es un shellscript) que puedes usar para ejecutar **rutyna** (cuyos archivos se encuentran en `/interpreter`). Un ejemplo de ejecución sería `./retina archivo.rtn` donde `archivo.rtn` es un archivo de texto con código retina; el archivo de imagen se llamará `archivo.pbm`.
+Retyna fue desarrollado en Ruby 2.4.0; puede funcionar con otras versiones pero no lo aseguramos. Contiene un archivo `retina` ejecutable (es un shellscript) que puedes usar para ejecutar **retyna** (cuyos archivos se encuentran en `/interpreter`). Un ejemplo de ejecución sería `./retina archivo.rtn` donde `archivo.rtn` es un archivo de texto con código retina; el archivo de imagen se llamará `archivo.pbm`.
 
-Por ahora la única documentación existente se encuentra en el código. Descárgalo, lée los comentarios, dibuja con Rutyna.
+Por ahora la única documentación existente se encuentra en el código. Descárgalo, lée los comentarios, dibuja con Retyna.
 
 [//]: ## Referencias
 
